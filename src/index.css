@@ -7,3 +7,6 @@ body {
 * > a + a {
   margin-left: 20px;
 }
+.active {
+  color: red;
+}
